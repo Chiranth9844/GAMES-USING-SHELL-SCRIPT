@@ -11,7 +11,7 @@ do
   read x
   case "$x" in
 #Using absolute path
-    #1) sh /c/Users/Chiranth/desktop/mini_unix/t3C-Copy.sh ;;
+    #1) sh /c/Users/Chiranth/desktop/mini_unix/t3C-Copy.sh ;;       
     #2) sh /c/Users/Chiranth/desktop/mini_unix/i-always-win.sh ;;
     #Using relative path
     1) ./t3C-Copy.sh ;;
